@@ -1,0 +1,27 @@
+body{
+    font-family:Arial,Helvetica,sans-serif;
+    text-align:center;
+    background-image:url("https://images.pexels.com/photos/1408221/pexels-photo-1408221.jpeg?auto=compress&cs=tinysrgb&w=600");
+    background-size:cover;
+
+}
+#content-box{
+    width:400px;
+    height:500px;
+    background-color:whitesmoke;
+    padding:20px;
+    margin:auto;
+    margin-top:50px;
+    border-radius: 10px;
+
+}
+#Calculate{
+width:150;
+height:50px;
+background-color:pink;
+color:white;
+font-size:20px;
+border:none;
+border-radius:10px;
+
+}
